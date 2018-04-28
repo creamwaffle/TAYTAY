@@ -1,0 +1,76 @@
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2015/BluetoothIO_GUI_Sample_2015/obj/x86/Debug/BluetoothIO.exe
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2015/BluetoothIO_GUI_Sample_2015/obj/x86/Debug/BluetoothIO.pdb
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2015/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2015/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+D:/Bluetooth IO Card/Bluetooth IO Card/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe.config
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+C:/Users/Creamwaffle/Desktop/BluetoothIO_GUI_Sample_2016_4byte/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe.config
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+E:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe.config
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+J:/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe.config
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+C:/Users/Creamwaffle/Desktop/design project/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe.config
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+/Volumes/NO NAME 1/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+/Volumes/NO NAME 1/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+/Volumes/NO NAME 1/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+/Volumes/NO NAME 1/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+/Volumes/NO NAME 1/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME 1/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+/Volumes/NO NAME 1/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Form1.resources
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothGUISample.Properties.Resources.resources
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.exe
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/BluetoothIO.pdb
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe.config
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
+/Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb

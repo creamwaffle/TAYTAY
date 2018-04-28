@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3867D371-B7C9-4594-A50B-DCD525749C1B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicGUI.cs">
+    <Files>
+      <File FileName="BasicGUI.cs" Line="265" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BluetoothIO__GUI__Sample__2016__4byte PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
