@@ -326,7 +326,8 @@ namespace BluetoothGUISample
         {
             //deadband_removal();
             Deadband_removal();
-
+            //i love my life
+            //i love my life
         }
 
         private void OutputBox1_ValueChanged(object sender, EventArgs e)
