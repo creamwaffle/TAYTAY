@@ -74,3 +74,13 @@ E:/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/obj/x86/Debug/Bl
 /Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe.config
 /Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.exe
 /Volumes/FEDORA-WS-L/design project_text - Copy/BluetoothIO_GUI_Sample_2016_4byte/bin/Debug/BluetoothIO.pdb
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\bin\Debug\BluetoothIO.exe.config
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\bin\Debug\BluetoothIO.exe
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\bin\Debug\BluetoothIO.pdb
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\BluetoothIO_GUI_Sample_2016_4byte.csprojResolveAssemblyReference.cache
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\BluetoothGUISample.Form1.resources
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\BluetoothGUISample.Properties.Resources.resources
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\BluetoothIO_GUI_Sample_2016_4byte.csproj.GenerateResource.Cache
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\BluetoothIO_GUI_Sample_2016_4byte.csproj.CoreCompileInputs.cache
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\BluetoothIO.exe
+C:\Users\Creamwaffle\Source\Repos\TAYTAY\BluetoothIO_GUI_Sample_2016_4byte\obj\x86\Debug\BluetoothIO.pdb

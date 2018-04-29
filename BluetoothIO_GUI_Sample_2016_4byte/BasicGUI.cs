@@ -38,6 +38,11 @@ namespace BluetoothGUISample
         double degree = 0;
         double upper_deadband;
         double lower_deadband;
+
+        long pos_d;
+        float kp, ki, kd;
+        long error, error_i, error_d, error_old;
+        float u,dt;
  
         public Form1()
         {
@@ -326,15 +331,28 @@ namespace BluetoothGUISample
         {
             //deadband_removal();
             Deadband_removal();
-            //i love my life
-            //i love my life
-            //i love my life?
-            //i love my life??
         }
 
         private void OutputBox1_ValueChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void Controlloop()
+        {
+            error = pos_d - count;
+            error_d = (error - error_old);
+            u = kp * error + ki * error_i + kd * error_d;
+
+            //anti windup
+            if (error > 0)
+            {
+                //back calculating the erro
+            }
+            else
+            {
+                error_i = error_i + (long)dt * 1 * error;
+            }
         }
     }
     
